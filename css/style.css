@@ -1,0 +1,135 @@
+
+body {background-color: #F2F2F2; 
+font-family: Calibri, sans-serif; 
+color: black; 
+padding-left: 40px;
+padding-right: 70px}
+ h1 {font-family:'Calibri', sans-serif; color: black; font-size: 30px}
+ a {color: #163E64; text-decoration: none;} 
+
+h2 {
+    font-size: 24px;       /* size of the heading */
+    color: #163E64;         /* text colour */
+    margin-top: 30px;      /* space above */
+    margin-bottom: 15px;   /* space below */
+    text-align: left;    /* center heading */
+    font-family: Calibri; /* font */
+}
+
+
+.topnav {
+    background-color: #222;
+    overflow: hidden;
+    padding: 0px;
+}
+
+.topnav a {
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+}
+
+.topnav a:hover {
+    background-color: #444;
+}
+
+.top-image {
+    float: right;
+    margin: 10px;
+    width: 150px; /* adjust size */
+}
+
+.banner {
+    background-color: #D9D9D9;     
+    padding: 10px;               /* space inside the box */
+    display: flex;               /* puts image + text side by side */
+    align-items: center;         /* vertically align them */
+    justify-content: flex-start; /* spreads them across */
+    gap: 100px;
+    border-radius: 0px;        /* optional rounded corners */
+    margin-top: 20px;            /* space below nav bar */
+}
+
+.banner img {
+    width: 200px;                /* adjust logo size */
+    margin-right: 20px; 
+    flex: 0 0 auto;
+}
+
+.banner-text {
+    color: black;
+    line-height: 1.4;
+    justify-content: center;
+    align-items: center; 
+    text-align: center;
+    max-width: 900x;
+}
+
+}
+
+
+.banner-text h1 {
+    color: Black;                
+    margin: 0 0 10px 0;
+    font-size: 30px !important;          
+}
+
+
+.banner-text p {
+    color: Black;                
+    display: flex;
+    flex-direction: column; 
+    text-align: center;
+    justify-content: center;
+    font-size: 24px;
+
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-position: inside;
+}
+
+ol {
+    margin: 0;
+    padding: 0;
+    list-style-position: inside;
+}
+
+.top-links {
+    margin: 20px 0;       /* space above and below */
+    text-align: center;    /* center the buttons horizontally */
+}
+
+.link-button {
+    display: inline-block;
+    background-color: #444;  /* button color */
+    color: white;            /* text color */
+    padding: 10px 20px;      /* space inside button */
+    margin: 5px;             /* space between buttons */
+    text-decoration: none;   /* remove underline */
+    border-radius: 5px;      /* rounded corners */
+    font-size: 24px;
+    transition: background-color 0.3s;
+}
+
+.link-button:hover {
+    background-color: #666;  /* hover effect */
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+tr:nth-child(even) {
+  background-color: #C4DCF2;
+border-bottom: 1px solid #ddd;
+}
+
+th, td {
+  padding: 10px;
+}
