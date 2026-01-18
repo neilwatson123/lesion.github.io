@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Website</title>
+
+<link rel="stylesheet" href="../../css/style.css">
+</head>
+
+<body> 
+
+
+<div class="topnav">
+    <a href="../../index.html">Home</a>
+  <a href="../../About.html">About</a>
+    <a href="../../Approach/Approach.html">Approach</a>
+    <a href="../cases.html">Cases</a>
+ <a href="../../Definitions.html">Definitions</a>
+    <a href="../../Contact.html">Contact me</a>
+<a href="../../Recommendations.html">Recommendations</a> 
+</div>
+
+<div class="banner">
+    <img src="../../Lesion.logo.noborder.jpg" alt="My Logo">
+
+    <div class="banner-text">
+        <h1>LESIONS</h1>
+        <p><b>A Guide to Localisation in Neurology</b></p>
+    </div>
+</div>
+
+
+<p style="font-size: 26px; color: #163E64;"> <b> Case 6. Headache and arm movements during pregnancy</b> </p>
+
+<div class="top-links">
+    <a href="6.pregnant.headache.html" class="link-button">Case</a>
+    <a href="6.where.html" class="link-button">Where?</a>
+    <a href="6.what.html" class="link-button">What?</a>
+    <a href="6.formulation.html" class="link-button">Formulation</a>
+    <a href="6.outcome.html" class="link-button">Outcome</a>
+</div>
+
+<p style="font-size: 26px; color: #163E64;"> <b> Outcome </b> </p>
+
+<p>     
+On a plain CT head a dense cortical vein was visible overlying the left frontal lobe, suggestive of static blood (<b> Images A and B </b>). A dark area of <i>hypoattenuation</i> was visible in the underlying brain, suggesting a venous infarction (<b>C</b>). Contrast venography identified a filling defect in the vein - confirming cortical venous thrombosis (<b> D </b>). </p>
+
+<img src="ct.1.jpg" alt="Plain CT 1" width="400">
+<p></p>
+<img src="ct.2.jpg" alt="Plain CT 2" width="400">
+<p></p>
+<img src="ct.3.jpg" alt="Plain CT 3" width="400">
+<p></p>
+<img src="ct.4.jpg" alt="Venogram" width="400">
+<p></p>
+<img src="cortical.vein.pic.jpg" alt="Cortical venous thrombosis" width="400">
+<p></p>
+
+
+
+
+<p> The patient was started on anticoagulation with heparin to treat the thrombosis. She was also given levetiracetam therapy for seizure prophylaxis, with no further events.</p>
+
+<p> Her headache resolved fully in the following days. The pregnancy proceeded without complications and she delivered a healthy baby at term.</p>
+
+<p> A thrombophilia workup did not identify any other cause for thrombosis and it was felt the pregnancy was the causative risk factor. This meant that the risk of further events was not felt to be elevated - pregnancy was a transient, provoking state, rather than a lifelong condition - and after an MRI 6 months showed resolution of the thrombosis, she stopped anticoagulation and also stopped the levetiracetam. There were no further seizures, and she remained well - without further thrombotic events. 
+<p/>
+
+
+<b> Final diagnosis </b> 
+<p> Acute headache and focal motor seizures due to cortical vein thrombosis and venous infarction of left frontal lobe during pregnancy.   </p> 
+
+<b> Key points </b> 
+<ul>
+<li> Acute headache is common, but markers of a likely secondary cause are i) sudden onset, ii) focal features and iii) associated systemic illness (e.g. fever) 
+</li> 
+<li> Pregnancy is associated with various conditions that increase the risk of headache and seizures, but CVST is always a consideration, particularly in third trimester or the post-partum phase 
+</li> 
+<li> If there is reasonable suspicion of an intracranial lesion in a pregnant woman, do not delay brain imaging - you may miss a life-threatening condition  
+</li> 
+<li> CVST is often provoked, but a search for additional risk factors (thrombophilia) is sometimes performed. If none are found, patients can cease treatment after several months. 
+</li> 
+
+
+<p> </p> 
+<b> <a href="../cases.html">Return to Cases</a> </b> 
+
+</body> 
